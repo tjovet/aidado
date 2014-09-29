@@ -1,0 +1,4 @@
+Éviter le processus de validation : Mise en relation des profs / élèves
+Notations / validation -> Les parents sont finalement les "testeurs"
+KPI : Outils automatiques de statistiques sur l'évolution d'un sujet / prof / élève etc ...
+
