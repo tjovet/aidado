@@ -1,4 +1,12 @@
-�viter le processus de validation : Mise en relation des profs / �l�ves
+idees 01/10
+Éviter le processus de validation : Mise en relation des profs / élèves
 Notations / validation -> Les parents sont finalement les "testeurs"
-KPI : Outils automatiques de statistiques sur l'�volution d'un sujet / prof / �l�ve etc ...
+KPI : Outils automatiques de statistiques sur l'évolution d'un sujet / prof / élève etc ...
 
+
+idees 07/10
+
+Dans un premier temps plateforme focalisée sur la mise en relation profs/ élèves sur majoritairement cours de Maths Physique
+Interface ouverte sur tous les autres cours de collège/lycée, mais "cachés" s'il n'y a pas de profs dispo
+Puis généralisation à toute sorte d'aide à domicile qui aujourd'hui marche bcp au black (baby sitting, ménage, ..)
+Techniquement, le développement doit être générique dans un objectif d'adaptabilité
